@@ -1,2 +1,3 @@
-# GWSales_demo1
-You should read this file very carefully
+# Welcome to GWSales project
+I hope you find this page very useful
+
